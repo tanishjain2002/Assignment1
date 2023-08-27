@@ -46,7 +46,7 @@ const nft3 = mintNFT("Mohini", "MBA", "763", "CU");
 myNFTs.push(nft3);
 
 const nft4 = mintNFT("Radhika", "Biotechnology", "801", "MU");
-myNFTs.push(nft3);
+myNFTs.push(nft4);
 
 listNFTs(myNFTs);
 getTotalSupply();
